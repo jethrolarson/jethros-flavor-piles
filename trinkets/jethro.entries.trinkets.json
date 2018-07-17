@@ -1,0 +1,19 @@
+{
+  "entries": [
+    {
+      "id": "slow_regret",
+      "buffs": [
+        "SRegret_HealUp",
+        "SRegret_BleedUp",
+        "SRegret_BleedChance"
+      ],
+      "hero_class_requirements": [
+        "occultist"
+      ],
+      "rarity": "very_rare",
+      "price": 25000,
+      "limit": 1,
+      "origin_dungeon": "cove"
+    }
+  ]
+}

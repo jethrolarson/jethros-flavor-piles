@@ -1,0 +1,46 @@
+
+   {
+    "buffs": [ {
+        "id": "SRegret_HealUp",
+        "stat_type": "hp_heal_amount",
+        "stat_sub_type": "",
+        "amount": 3,
+        "remove_if_not_active": false,
+        "rule_type": "always",
+        "is_false_rule": false,
+        "rule_data": {
+          "float": 0,
+          "string": ""
+        }
+      },
+      {
+        "id": "SRegret_BleedUp",
+        "stat_type": "hp_dot_bleed_amount_percent",
+        "stat_sub_type": "",
+        "amount": 0.6,
+        "remove_if_not_active": false,
+        "rule_type": "always",
+        "is_false_rule": false,
+        "rule_data": {
+          "float": 0,
+          "string": ""
+        }
+      },
+      {
+        "id": "SRegret_BleedChance",
+        "stat_type" : "bleed_chance",
+        "stat_sub_type" : "",
+        "amount" : 0.50,
+        "duration" : 1,
+        "remove_if_not_active" : false,
+        "rule_type" : "always",
+        "is_false_rule" : false,
+        "rule_data" : {
+           "float" : 0,
+           "string" : ""
+        }
+     }
+
+
+    ]
+}
