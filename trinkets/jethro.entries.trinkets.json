@@ -1,7 +1,7 @@
 {
   "entries": [
     {
-      "id": "slow_regret",
+      "id": "slow_regret2",
       "buffs": [
         "SRegret_HealUp",
         "SRegret_BleedUp",
