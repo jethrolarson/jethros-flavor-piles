@@ -14,6 +14,21 @@
       "price": 25000,
       "limit": 1,
       "origin_dungeon": "cove"
+    },
+    {
+      "id": "slow_regret",
+      "buffs": [
+        "SRegret_HealUp",
+        "SRegret_BleedUp",
+        "SRegret_BleedChance"
+      ],
+      "hero_class_requirements": [
+        "occultist"
+      ],
+      "rarity": "comet",
+      "shard": 10,
+      "limit": 1,
+      "origin_dungeon": ""
     }
   ]
 }
