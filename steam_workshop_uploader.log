@@ -7,6 +7,13 @@ Mod Data Directory = c:/Users/Jethro/Desktop/jethros_flavor_pile/
 Processing Map Files files...
 
 -------------------------------------------------------------------------------
+Running Localization...
+Parsing localization/jethro.string_table.xml
+
+Building Languages
+Exporting .loc files
+
+-------------------------------------------------------------------------------
 Searching for preview icon file c:/Users/Jethro/Desktop/jethros_flavor_pile/preview_icon.png...FOUND!
 <UploadMode> - Set to direct_upload
 
@@ -17,11 +24,13 @@ Modded files...
 campaign/town/buildings/nomad_wagon/com.nomad_wagon.building.json
 panels/icons_equip/trinket/inv_trinket+slow_regret.png
 shared/buffs/jethro.buffs.json
+localization/1443266184_english.loc
+localization/jethro.string_table.xml
 trinkets/jethro.entries.trinkets.json
 modfiles.txt
 preview_icon.png
 project.xml
 
-Submitting........................................................Submitted.
+Submitting.................................................................................................................................................................................................................................................................................................................................................................................................................Submitted.
 Saving project file C:\Users\Jethro\Desktop\jethros_flavor_pile\project.xml
 

@@ -1,7 +1,9 @@
 campaign/town/buildings/nomad_wagon/com.nomad_wagon.building.json 162
 panels/icons_equip/trinket/inv_trinket+slow_regret.png 5215
 shared/buffs/jethro.buffs.json 1078
-trinkets/jethro.entries.trinkets.json 353
-modfiles.txt 312
+localization/1443266184_english.loc 4178
+localization/jethro.string_table.xml 278
+trinkets/jethro.entries.trinkets.json 670
+modfiles.txt 264
 preview_icon.png 172822
 project.xml 625
